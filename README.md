@@ -14,7 +14,7 @@
 - React js,
 - React dom,
 - Next js,
-- EsLint,
+- ESLint,
 - Json-server,
 - Concurrently.
 
