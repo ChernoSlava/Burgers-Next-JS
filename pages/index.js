@@ -14,7 +14,7 @@ export default function Home() {
       <div className={styles.container}>
         <h1 className={`${styles.title} font-effect-fire-animation`}>Главная</h1>
         <div className={styles.mainImage}>
-          <Image src='/fatburger.png' alt='Burger' width={400} height={300} />
+          <Image src='/fatburger.png' alt='Burger' width={400} height={300} priority/>
         </div>
         <p className={styles.text}>Что такое идеальный бургер? Лист свежего салата, мягкие булочки, сочное мясо. О других составляющих начинки можно поспорить, ведь это дело вкуса.</p>
         <p className={styles.text}>Есть ещё пара-тройка факторов, влияющих на аппетит: цены, качество обслуживания, правильная атмосфера заведения.</p>
